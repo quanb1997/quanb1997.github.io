@@ -1,4 +1,4 @@
+UMASS Amherst
 590V Project
 
-Partners:
-Li Hong, Zachary Bebbington, Michelle Chen
+Li Hong, Zachary Bebbington, Michelle Chen, Quan Bui
